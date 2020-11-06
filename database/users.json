@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "5e8eaa22b9553f22149f770e"
+  },
+  "role": 1,
+  "purchases": [],
+  "name": "rajat",
+  "lastname": "kapoor",
+  "email": "rajat@gmail.com",
+  "salt": "f6cde3b0-7a1d-11ea-aa48-1ba2a3237682",
+  "encry_password": "384b2ffb7251bee673b31b5719e75ee5b3971122774e5ac1143c1013a9a11699",
+  "createdAt": {
+    "$date": "2020-04-09T04:52:50.277Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-11T06:26:17.800Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e8f0b9a156e8b0fdc4c78ea"
+  },
+  "role": 0,
+  "purchases": [],
+  "name": "raj",
+  "lastname": "verma",
+  "email": "raj@gmail.com",
+  "salt": "0fd094e0-7a58-11ea-9c9c-6789c85c60bd",
+  "encry_password": "784b38af41a71f894a182cba44f3e409205a43be1fde565dbd5ac3e878d08096",
+  "createdAt": {
+    "$date": "2020-04-09T11:48:42.940Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-09T11:48:42.940Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eba9c1c1ad1b52d88e7614c"
+  },
+  "role": 0,
+  "purchases": [],
+  "name": "Rajat Soni",
+  "email": "rajatsoni1499@gmail.com",
+  "salt": "793c1790-944f-11ea-82e7-b3957d2385c0",
+  "encry_password": "0b4f38f0ed0bb1f403a76c088c9a64eacf9b7ce58d5ad4e9ee792edb223ad1d4",
+  "createdAt": {
+    "$date": "2020-05-12T12:52:44.560Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-12T12:52:44.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a714b8c45212a9438e6bb"
+  },
+  "role": 0,
+  "purchases": [],
+  "name": "Rajat Soni",
+  "email": "rajatsoni1498@gmail.com",
+  "salt": "a3e01d30-19b9-11eb-86e6-754239238b0c",
+  "encry_password": "b5a5e853ade7ac19e80f397c802df5c10b39ee6746ee32c7a30a4a959ef9306b",
+  "createdAt": {
+    "$date": "2020-10-29T07:37:47.408Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T07:37:47.408Z"
+  },
+  "__v": 0
+}]
