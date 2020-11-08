@@ -24,7 +24,7 @@ export default function Home() {
   }, []);
 
   return (
-    <Base title="Welcome to Versatile Tshirts Store" description="Home Page">
+    <Base title="Welcome to LPUCart Store" description="Home Page">
       <div className="row text-center">
         <h1 className="text-white">All of tshirts</h1>
         <div className="row">
