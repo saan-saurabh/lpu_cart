@@ -23,7 +23,7 @@ const Base = ({
       </div>
       <div className="container">
         <span className="text-muted">
-          An Amazing <span className="text-white">Versatile E-commerce Website</span>
+          An Amazing <span className="text-white">LPUCart E-commerce Website</span>
         </span>
       </div>
     </footer>
