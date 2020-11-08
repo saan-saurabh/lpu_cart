@@ -1,5 +1,5 @@
 # E-commerce
-Versatile e-commerce website build using node.js and react.js
+LPUCart e-commerce website build using node.js and react.js
 ---------------------------------------------------------------------
 First of all install all software like node.js, react js, mongoDb.
 To Run this project both frontend and backend are run at same time in different terminal.
